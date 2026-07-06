@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./logo.png" width="100folio
-    
 Hi !		
 I am currently a second-year student at the IUT of Tarbes passionate about web/game development.
 
