@@ -6,5 +6,5 @@ My portfolio :
 
 My projects :
 - [Voting system](https://sae203-nb.alwaysdata.net/)
-- [NexusHub](https://nexushub.alwaysdata.net/index.php/)
+- [NexusHub](https://nexushub.alwaysdata.net/)
 
