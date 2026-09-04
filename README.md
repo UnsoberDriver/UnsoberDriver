@@ -20,9 +20,37 @@ Tech stats
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=440&lines=Aspiring+data+scientist)](https://git.io/typing-svg)
 
-- 📌 [Portfolio](https://github.com/UnsoberDriver/Portfolio)
-- 📌 [NexusHub](https://github.com/UnsoberDriver/NexusHub)
-- 📌 [Home-Kitchen-Club](https://github.com/UnsoberDriver/Home-Kitchen-Club)
-- 📌 [NoteKeep](https://github.com/UnsoberDriver/NoteKeep)
+<table>
+<tr>
+<td width="50%">
 
-- [![Portfolio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Portfolio&theme=dark)](https://github.com/UnsoberDriver/Portfolio)
+**📖 [Portfolio](https://github.com/UnsoberDriver/Portfolio)**
+Incase you want to know more about me...
+🔴 HTML
+
+</td>
+<td width="50%">
+
+**📖 [NexusHub](https://github.com/UnsoberDriver/NexusHub)**
+Nexus Pulse is a private instant messaging platform...
+🟡 JavaScript
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📖 [Home-Kitchen-Club](https://github.com/UnsoberDriver/Home-Kitchen-Club)**
+A recipe site made in pure PHP...
+🟣 PHP
+
+</td>
+<td width="50%">
+
+**📖 [NoteKeep](https://github.com/UnsoberDriver/NoteKeep)**
+Shopping list app...
+🟣 PHP
+
+</td>
+</tr>
+</table>
