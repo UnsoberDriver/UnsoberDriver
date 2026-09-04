@@ -18,4 +18,4 @@ Tech stats
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,docker,linux)](https://skillicons.dev)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=440&lines=Always+shipping%2C+always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=440&lines=Aspiring+data+scientist)](https://git.io/typing-svg)
