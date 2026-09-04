@@ -1,4 +1,5 @@
 Hi !		
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 I am currently a second-year student at the IUT of Tarbes passionate about web development.
 
 My portfolio :
