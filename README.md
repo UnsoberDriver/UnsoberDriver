@@ -22,34 +22,58 @@ Tech stats
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<br>
 
 **📖 [Portfolio](https://github.com/UnsoberDriver/Portfolio)**
+
 Incase you want to know more about me...
+
 🔴 HTML
 
+<br>
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<br>
 
 **📖 [NexusHub](https://github.com/UnsoberDriver/NexusHub)**
-Nexus Pulse is a private instant messaging platform...
+
+Nexus Pulse is a private instant messaging platform that lets you communicate with your friends and community.
+
 🟡 JavaScript
+
+<br>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<br>
 
 **📖 [Home-Kitchen-Club](https://github.com/UnsoberDriver/Home-Kitchen-Club)**
-A recipe site made in pure PHP...
+
+A recipe site made in pure PHP (no framework) to learn how things work under the hood.
+
 🟣 PHP
+
+<br>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<br>
 
 **📖 [NoteKeep](https://github.com/UnsoberDriver/NoteKeep)**
-Shopping list app...
+
+A shopping list app, made to avoid Google spyware.
+
 🟣 PHP
+
+<br>
 
 </td>
 </tr>
