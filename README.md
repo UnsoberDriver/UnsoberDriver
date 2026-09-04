@@ -1,6 +1,6 @@
 <h1 align="center">Nicolas Boulloud</h1>
 
----
+
 
 Hi !		
 I am currently a second-year student at the IUT of Tarbes passionate about web development.
