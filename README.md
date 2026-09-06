@@ -5,7 +5,7 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FFFFFF&size=30&center=true&vCenter=true&width=600&lines=Inspiring+data+scientist" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=00FF00&size=30&center=true&vCenter=true&width=700&lines=Inspiring+data+scientist" />
 </p>
 
 ---
@@ -14,6 +14,7 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:2E0854,50:2E0854,75:2E0854,100:000000&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100&width=1200" />
 </p>
 Github Stats
+
 ---
 
 
