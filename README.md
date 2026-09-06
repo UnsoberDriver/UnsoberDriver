@@ -1,7 +1,8 @@
 <h1 align="center">Nicolas Boulloud</h1>
 
-Hi !		
-I am currently a second-year student at the IUT of Tarbes passionate about web development.
+<p align="center">
+Hi ! I am currently a second-year student at the IUT of Tarbes passionate about web development.
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FFFFFF&size=30&center=true&vCenter=true&width=600&lines=Inspiring+data+scientist" />
