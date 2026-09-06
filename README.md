@@ -1,5 +1,7 @@
 <h1 align="center">Nicolas Boulloud</h1>
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Nicolas+boulloud&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 <p align="center">
 Hi ! I am currently a second-year student at the IUT of Tarbes passionate about web development.
 </p>
