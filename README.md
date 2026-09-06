@@ -5,6 +5,8 @@ I am currently a second-year student at the IUT of Tarbes passionate about web d
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=440&lines=Aspiring+data+scientist)](https://git.io/typing-svg)
 
+![UnsoberDriver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+
 My portfolio :
 
 [![Portfolio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Portfolio&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Portfolio)
