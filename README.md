@@ -9,7 +9,7 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 </p>
 
 ---
-
+Github Stats
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:2E0854,50:2E0854,75:2E0854,100:000000&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100&width=1200" />
 </p>
