@@ -9,20 +9,7 @@ I am currently a second-year student at the IUT of Tarbes passionate about web d
 
 ![GitHub Streak](https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight)
 
-<table>
-<tr>
-<td valign="top">
-
-<img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight&langs_count=4" height="200"/>
-
-</td>
-<td valign="top">
-
-<img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight" height="165"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight&langs_count=4" height="200"/> <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight" height="165"/>
 
 My portfolio :
 
