@@ -13,7 +13,7 @@ I am currently a second-year student at the IUT of Tarbes passionate about web d
 <tr>
 <td valign="top">
 
-<img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight" height="220"/>
+<img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight&langs_count=4" height="220"/>
 
 </td>
 <td valign="top">
