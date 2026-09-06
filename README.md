@@ -11,14 +11,14 @@ I am currently a second-year student at the IUT of Tarbes passionate about web d
 
 <table>
 <tr>
-<td>
+<td valign="top">
 
-![Top Langs](https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight" height="220"/>
 
 </td>
-<td>
+<td valign="top">
 
-![GitHub Streak](https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight)
+<img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight" height="220"/>
 
 </td>
 </tr>
