@@ -2,10 +2,9 @@
 
 Hi !		
 I am currently a second-year student at the IUT of Tarbes passionate about web development.
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=A020F0&size=30&center=true&vCenter=true&width=600&lines=Inspiring+data+scientist)
 
 ![GitHub Stats](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2E0854,100:000000&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100)
-
-![GitHub Stats](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4B0082&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100)
 
 <img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight&langs_count=4" height="200" width="380"/> <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight" height="200" width="480"/>
 
