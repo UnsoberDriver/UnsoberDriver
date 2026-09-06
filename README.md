@@ -3,7 +3,7 @@
 Hi !		
 I am currently a second-year student at the IUT of Tarbes passionate about web development.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=440&lines=Aspiring+data+scientist)](https://git.io/typing-svg)
+![GitHub Stats](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2E0854,100:000000&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100)
 
 ![GitHub Stats](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4B0082&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100)
 
