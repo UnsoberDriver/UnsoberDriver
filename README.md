@@ -49,5 +49,5 @@ Tech stats
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,docker,linux)](https://skillicons.dev)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=00FF00&size=30&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profil" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=00FF00&size=30&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profil+!" />
 </p>
