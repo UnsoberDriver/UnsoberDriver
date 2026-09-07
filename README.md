@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,0,0&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=40&fontColor=000000&fontAlignY=35" />
 </p>
 
-<h1 align="center">Nicolas Boulloud</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:2E0854,50:2E0854,75:2E0854,100:000000&text=Nicolas+Boulloud&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100&width=1200" />
+</p>
 
 <p align="center">
 Hi ! I am currently a second-year student at the IUT of Tarbes passionate about web development.
@@ -43,6 +45,9 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:2E0854,50:2E0854,75:2E0854,100:000000&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100&width=1200" />
 </p>
+
+![Python](https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## GitHub Stats
  
