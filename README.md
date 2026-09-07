@@ -28,10 +28,6 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 [![Home-Kitchen-Club](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Home-Kitchen-Club&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Home-Kitchen-Club)
 [![NoteKeep](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NoteKeep&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/NoteKeep)
 
-
-My school projects :
-- [Voting system](https://sae203-nb.alwaysdata.net/)
-
 Languages
 
 ---
