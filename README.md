@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,0,0&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=40&fontColor=000000&fontAlignY=35" />
 </p>
 
-<p align="center">
-  
-# Nicolas Boulloud
-  
-</p>
+<h1 align="center">Nicolas Boulloud</h1>
 
 <p align="center">
 Hi ! I am currently a second-year student at the IUT of Tarbes passionate about web development.
