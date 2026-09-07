@@ -43,6 +43,9 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+<h4 align="center">Databases & DevOps</h4>
+
+
 ---
 
 <p align="center">
