@@ -44,6 +44,8 @@ Languages
 
 <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&background=00000000&border=00000000&stroke=00000000" height="200" width="480"/>
 
+<img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&background=00000000&border_radius=10&card_border_color=00000000" height="200" width="480"/>
+
 ---
 
 ## Tech stats
