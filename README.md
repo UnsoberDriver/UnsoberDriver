@@ -36,7 +36,7 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 ## Tech stack
 
-<h1 align="center">Languages</h1>
+<h4 align="center">Languages</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=white" />
