@@ -51,6 +51,8 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 ![Python](https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
+
 ## GitHub Stats
  
   <img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&langs_count=4&theme=tokyonight&bg_color=000000&hide_border=true" width="380"/>
