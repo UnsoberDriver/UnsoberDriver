@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,14&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=40&fontColor=000000&fontAlignY=35&fontAlignX=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,14&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=40&fontColor=000000&fontAlignY=35&fontAlignX=100)
 
 <h1 align="center">Nicolas Boulloud</h1>
 
