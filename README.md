@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:2E0854,50:2E0854,75:2E0854,100:000000&text=Nicolas+Boulloud&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100&width=1200" />
+# Nicolas Boulloud
 </p>
 
 <p align="center">
@@ -42,6 +42,10 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:2E0854,50:2E0854,75:2E0854,100:000000&text=Github*stats&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100&width=1200" />
+</p>
 
 ## GitHub Stats
  
