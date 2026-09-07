@@ -44,11 +44,7 @@ Languages
 
 <img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight&langs_count=4" height="200" width="380"/> <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight" height="200" width="480"/>
 
-<img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight&langs_count=4&bg_color=00000000" height="200" width="380"/> <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight&background=00000000" height="200" width="480"/>
-
-<img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&background=00000000&border=00000000&stroke=00000000" height="200" width="480"/>
-
-<img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&background=00000000&border_radius=10&card_border_color=00000000" height="200" width="480"/>
+<img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight&langs_count=4&bg_color=000000" height="200" width="380"/> <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight&background=000000" height="200" width="480"/>
 
 ---
 
