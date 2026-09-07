@@ -57,7 +57,7 @@ Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,docker,linux)](https://skillicons.dev)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=violet&size=30&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile+!" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=blueviolet&size=30&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile+!" />
 </p>
 
 <p align="center">
