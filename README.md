@@ -42,6 +42,8 @@ Languages
 
 <img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&theme=tokyonight&langs_count=4&bg_color=00000000" height="200" width="380"/> <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight&background=00000000" height="200" width="480"/>
 
+<img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=transparent" height="200" width="480"/>
+
 ---
 
 ## Tech stats
