@@ -59,3 +59,7 @@ Languages
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=00FF00&size=30&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile+!" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
