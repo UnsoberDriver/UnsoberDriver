@@ -29,9 +29,13 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 <h4 align="center">Languages</h4>
 
+<h4 align="center">Languages</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 <h4 align="center">Databases</h4>
