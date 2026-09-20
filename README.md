@@ -14,8 +14,6 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 ---
 
-
-
 ## Portfolio
 
 [![Portfolio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Portfolio&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Portfolio)
@@ -28,9 +26,7 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:2E0854,50:2E0854,75:2E0854,100:000000&text=Tech+stack&fontSize=40&fontColor=ffffff&fontAlignY=50&height=100&width=1200" />
-</p>
+
 
 ## Tech stack
 
