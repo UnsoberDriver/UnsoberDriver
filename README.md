@@ -12,7 +12,7 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=6A0DAD&size=30&center=true&vCenter=true&width=700&lines=Inspiring+data+scientist" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
 
 ## Portfolio
 
