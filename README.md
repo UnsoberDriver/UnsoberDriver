@@ -35,7 +35,7 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<h4 align="center">Databases & DevOps</h4>
+<h4 align="center">Databases</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -46,6 +46,8 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
   <img src="https://img.shields.io/badge/ORACLE%20CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/VIRTUALBOX-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
+
+<h4 align="center">DevOps</h4>
 
 ---
 
