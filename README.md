@@ -11,8 +11,7 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=6A0DAD&size=30&center=true&vCenter=true&width=700&lines=Inspiring+data+scientist" />
 </p>
-
-
+---
 ## Portfolio
 
 [![Portfolio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Portfolio&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Portfolio)
@@ -26,8 +25,6 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 ---
 
 ## Tech stack
-
-<h4 align="center">Languages</h4>
 
 <h4 align="center">Languages</h4>
 
