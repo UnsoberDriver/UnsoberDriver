@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9c0aa3,100:000000&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:9c0aa3,100:000000&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <h1 align="center">Nicolas Boulloud</h1>
