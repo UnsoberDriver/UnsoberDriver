@@ -12,20 +12,24 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=6A0DAD&size=30&center=true&vCenter=true&width=700&lines=Inspiring+data+scientist" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c9d1d9&height=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
 
 ## Portfolio
 
 [![Portfolio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Portfolio&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Portfolio)
 
-## My personnal projects
+## My personal projects
+
+<div align="center">
 
 [![NexusHub](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NexusHub&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/NexusHub)
 [![Home-Kitchen-Club](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Home-Kitchen-Club&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Home-Kitchen-Club)
 [![NoteKeep](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NoteKeep&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/NoteKeep)
 [![DropZone](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=DropZone&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/DropZone)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c9d1d9&height=1" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
 
 ## Tech stack
 
@@ -54,7 +58,7 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
   <img src="https://img.shields.io/badge/ORACLE%20CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c9d1d9&height=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
 
 ## GitHub Stats
 
@@ -63,9 +67,12 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
   <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight&background=000000&hide_border=true" width="480"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c9d1d9&height=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=6A0DAD&size=30&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5a0663,100:000000&height=150&section=footer" />
+</p>
