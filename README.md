@@ -1,155 +1,78 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5a0663,100:000000&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+</p>
+
+<h1 align="center">Nicolas Boulloud</h1>
+
+<p align="center">
+Hi ! I am currently a second-year student at the IUT of Tarbes passionate about web development.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=6A0DAD&size=30&center=true&vCenter=true&width=700&lines=Inspiring+data+scientist" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
+
+## Portfolio
+
+[![Portfolio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Portfolio&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Portfolio)
+
+## My personal projects
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=ENZO%20CAMILO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%7C%20MMI%20Student&descAlignY=58&descSize=18">
-
-<br>
-
-### Salut, moi c'est Enzo 👋
-
-**Étudiant en MMI à l'IUT de Tarbes.**
-
-Je touche un peu à tout : dev web, 3D, jeu vidéo, design...
-En gros j'aime bien créer des trucs interactifs et voir ce que je peux en faire.
-
-En ce moment je passe pas mal de temps sur **JavaScript** et **Three.js**,
-et je teste des petits prototypes sous **Unity** quand j'ai le temps.
-
-<br>
-
-<p>
-<span>━━━</span>　<span>✦</span>　<span>━━━</span>
-</p>
-
-### `01` · Ce que je fais
-
-<br>
-
-<table>
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-### WEB
-
-<br>
-
-**Interfaces & 3D web**
-
-<br>
-
-Sites, portfolios,
-petites expériences interactives.
-Surtout `JavaScript` et `Three.js`.
-
-<br><br>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### GAME DEV
-
-<br>
-
-**Unity & prototypes**
-
-<br>
-
-Je débute, je teste des mécaniques
-de gameplay, je fais des petits
-projets pour apprendre.
-
-<br><br>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### CRÉATION
-
-<br>
-
-**Visuel & motion**
-
-<br>
-
-Direction visuelle, UI,
-un peu de motion et d'interaction.
-J'essaie de soigner le rendu.
-
-<br><br>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p>
-<span>━━━</span>　<span>✦</span>　<span>━━━</span>
-</p>
-
-### `02` · Avec quoi je bosse
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,threejs,git,github,unity&perline=8">
-
-<br><br>
-
-<p>
-<code>HTML</code>　<code>CSS</code>　<code>JAVASCRIPT</code>　<code>THREE.JS</code>　<code>UNITY</code>　<code>GIT</code>
-</p>
-
-Je bosse surtout avec HTML / CSS / JS au quotidien.
-Three.js et Unity c'est là où j'apprends le plus en ce moment.
-
-<br><br>
-
-<p>
-<span>━━━</span>　<span>✦</span>　<span>━━━</span>
-</p>
-
-### `03` · GitHub
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Enzo131106&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo131106&layout=compact&hide_border=true&theme=transparent" height="165">
-
-<br><br>
-
-Je mets mes projets étudiants et mes tests ici au fur et à mesure.
-Hésitez pas à fouiller, tout n'est pas fini mais c'est fait pour apprendre.
-
-<br><br>
-
-<p>
-<span>━━━</span>　<span>✦</span>　<span>━━━</span>
-</p>
-
-### `04` · Comment je bosse
-
-<br>
-
-J'apprends surtout en pratiquant. Je pars d'une idée, je teste,
-je galère un peu, et je recommence jusqu'à ce que ça marche.
-
-Chaque projet m'apprend un truc en plus, que ce soit en code
-ou en design. C'est ce qui me plaît dans la MMI en fait.
-
-<br>
-
-Si tu veux discuter ou bosser sur un truc ensemble, mes MP sont ouverts.
-
-<br><br>
-
-**Merci d'être passé !** 👋
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer">
+[![NexusHub](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NexusHub&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/NexusHub)
+[![Home-Kitchen-Club](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Home-Kitchen-Club&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Home-Kitchen-Club)
+[![NoteKeep](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NoteKeep&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/NoteKeep)
+[![DropZone](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=DropZone&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/DropZone)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
+
+## Tech stackBuild
+
+/var/home/nico<h4 align="center">Languages</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+<h4 align="center">Databases</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHPMYADMIN-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+</p>
+
+<h4 align="center">DevOps</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/ORACLE%20CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&langs_count=4&theme=tokyonight&bg_color=000000&hide_border=true" width="380"/>
+  <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight&background=000000&hide_border=true" width="480"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=6A0DAD&size=30&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5a0663,100:000000&height=150&section=footer" />
+</p>
