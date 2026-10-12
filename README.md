@@ -69,6 +69,3 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=6A0DAD&size=30&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UnsoberDriver&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
