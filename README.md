@@ -16,44 +16,17 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 ## Portfolio
 
-<table width="100%">
-  <tr>
-    <td>
-      <a href="https://github.com/UnsoberDriver/Portfolio">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Portfolio&theme=dark&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Portfolio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Portfolio&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Portfolio)
 
 ## My personal projects
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/UnsoberDriver/NexusHub">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NexusHub&theme=dark&border_radius=10" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/UnsoberDriver/Home-Kitchen-Club">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Home-Kitchen-Club&theme=dark&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/UnsoberDriver/NoteKeep">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NoteKeep&theme=dark&border_radius=10" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/UnsoberDriver/DropZone">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=DropZone&theme=dark&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![NexusHub](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NexusHub&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/NexusHub)
+
+[![Home-Kitchen-Club](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Home-Kitchen-Club&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Home-Kitchen-Club)
+
+[![NoteKeep](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NoteKeep&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/NoteKeep)
+
+[![DropZone](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=DropZone&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/DropZone)
 
 ## Tech stackBuild
 
