@@ -95,7 +95,9 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 ## Contact
 <p>
+  
 E-mail : boulloud.nicolas@gmail.com
+
 </p>
   
 Instagram : [https://instagram.com/nic0las_bld](https://instagram.com/nic0las_bld?exln=a3N0eGJ5anl3ZDFz)
