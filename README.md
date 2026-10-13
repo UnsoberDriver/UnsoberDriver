@@ -20,13 +20,9 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 ## My personal projects
 
-[![NexusHub](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NexusHub&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/NexusHub)
+<a href="https://github.com/UnsoberDriver/NexusHub"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NexusHub&theme=dark&border_radius=10" /></a> <a href="https://github.com/UnsoberDriver/Home-Kitchen-Club"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Home-Kitchen-Club&theme=dark&border_radius=10" /></a>
 
-[![Home-Kitchen-Club](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=Home-Kitchen-Club&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Home-Kitchen-Club)
-
-[![NoteKeep](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NoteKeep&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/NoteKeep)
-
-[![DropZone](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=DropZone&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/DropZone)
+<a href="https://github.com/UnsoberDriver/NoteKeep"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NoteKeep&theme=dark&border_radius=10" /></a> <a href="https://github.com/UnsoberDriver/DropZone"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=DropZone&theme=dark&border_radius=10" /></a>
 
 ## Tech stackBuild
 
