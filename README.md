@@ -24,9 +24,11 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 <a href="https://github.com/UnsoberDriver/NoteKeep"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=NoteKeep&theme=dark&border_radius=10" /></a> <a href="https://github.com/UnsoberDriver/DropZone"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UnsoberDriver&repo=DropZone&theme=dark&border_radius=10" /></a>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
+
 ## Tech stackBuild
 
-/var/home/nico<h4 align="center">Languages</h4>
+<h4 align="center">Languages</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=white" />
