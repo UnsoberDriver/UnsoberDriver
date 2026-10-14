@@ -70,6 +70,8 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 - Linkedin : [linkedin/nicolas-boulloud](https://www.linkedin.com/in/nicolas-boulloud/)
 - Instagram : [instagram.com/nicolas-boulloud](https://instagram.com/nic0las_bld?exln=a3N0eGJ5anl3ZDFz) 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=6A0DAD&size=30&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!" />
 </p>
