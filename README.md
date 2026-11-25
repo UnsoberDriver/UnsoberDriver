@@ -66,9 +66,11 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 ## Contact
 
-- E-mail : boulloud.nicolas@gmail.com  
-- Linkedin : [linkedin/nicolas-boulloud](https://www.linkedin.com/in/nicolas-boulloud/)
-- Instagram : [instagram.com/nicolas-boulloud](https://instagram.com/nic0las_bld?exln=a3N0eGJ5anl3ZDFz) 
+<p align="center">
+  <a href="mailto:boulloud.nicolas@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nicolas-boulloud/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/nic0las_bld?exln=a3N0eGJ5anl3ZDFz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
 
