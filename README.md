@@ -58,15 +58,15 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&langs_count=4&theme=tokyonight&bg_color=ffffff00&border_color=ffffff" width="380"/>
-  <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight&background=ffffff00&border=ffffff" width="480"/>
+  <img src="https://github-readme-stats-cyan-seven-40.vercel.app/api/top-langs/?username=UnsoberDriver&layout=compact&langs_count=4&theme=tokyonight&bg_color=ffffff00&hide_border=true" width="380"/>
+  <img src="https://github-readme-streak-stats-xlq9-m0kgknx3a.vercel.app/?user=UnsoberDriver&theme=tokyonight&background=ffffff00&hide_border=true" width="480"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
 
 ## Contact
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="mailto:boulloud.nicolas@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIwIDRINGMtMS4xIDAtMiAuOS0yIDJ2MTJjMCAxLjEuOSAyIDIgMmgxNmMxLjEgMCAyLS45IDItMlY2YzAtMS4xLS45LTItMi0yem0wIDQtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4%3D&logoColor=white"></a>
