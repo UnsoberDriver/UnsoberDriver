@@ -34,6 +34,7 @@ def thicken_border(svg: str) -> str:
         r"\1"
         f'x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="10"'
         ' stroke-width="1" stroke="#ffffff" stroke-opacity="0.75"'
+        ' vector-effect="non-scaling-stroke" shape-rendering="crispEdges"'
         r"\2"
     )
     patched, count = re.subn(pattern, replacement, svg, count=1)
