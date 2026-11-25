@@ -54,7 +54,7 @@
 
         <rect
           data-testid="card-bg"
-          x="0.5" y="0.5" width="399" height="119" rx="10" stroke-width="1" stroke="#ffffff"/>
+          x="0.25" y="0.25" width="399.5" height="119.5" rx="10" stroke-width="0.5" stroke="#ffffff" stroke-opacity="0.75"/>
 
         
       <g
