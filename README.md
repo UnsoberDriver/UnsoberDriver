@@ -16,13 +16,13 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 ## Portfolio
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=UnsoberDriver&repo=Portfolio&theme=dark&border_radius=10)](https://github.com/UnsoberDriver/Portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=UnsoberDriver&repo=Portfolio&theme=dark&border_radius=10&bg_color=ffffff00&hide_border=true)](https://github.com/UnsoberDriver/Portfolio)
 
 ## My personal projects
 
-<a href="https://github.com/UnsoberDriver/NexusHub"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnsoberDriver&repo=NexusHub&theme=dark&border_radius=10" /></a> <a href="https://github.com/UnsoberDriver/Home-Kitchen-Club"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnsoberDriver&repo=Home-Kitchen-Club&theme=dark&border_radius=10" /></a>
+<a href="https://github.com/UnsoberDriver/NexusHub"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnsoberDriver&repo=NexusHub&theme=dark&border_radius=10&bg_color=ffffff00&hide_border=true" /></a> <a href="https://github.com/UnsoberDriver/Home-Kitchen-Club"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnsoberDriver&repo=Home-Kitchen-Club&theme=dark&border_radius=10&bg_color=ffffff00&hide_border=true" /></a>
 
-<a href="https://github.com/UnsoberDriver/NoteKeep"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnsoberDriver&repo=NoteKeep&theme=dark&border_radius=10" /></a> <a href="https://github.com/UnsoberDriver/DropZone"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnsoberDriver&repo=DropZone&theme=dark&border_radius=10" /></a>
+<a href="https://github.com/UnsoberDriver/NoteKeep"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnsoberDriver&repo=NoteKeep&theme=dark&border_radius=10&bg_color=ffffff00&hide_border=true" /></a> <a href="https://github.com/UnsoberDriver/DropZone"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UnsoberDriver&repo=DropZone&theme=dark&border_radius=10&bg_color=ffffff00&hide_border=true" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
 
