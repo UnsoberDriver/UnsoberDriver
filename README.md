@@ -16,13 +16,15 @@ Hi ! I am currently a second-year student at the IUT of Tarbes passionate about 
 
 ## Portfolio
 
-[![Portfolio](assets/cards/Portfolio.svg?v=5)](https://github.com/UnsoberDriver/Portfolio)
+<p align="center">
+  <kbd><a href="https://github.com/UnsoberDriver/Portfolio"><img src="assets/cards/Portfolio.svg?v=6" alt="Portfolio" width="400" /></a></kbd>
+</p>
 
 ## My personal projects
 
-<a href="https://github.com/UnsoberDriver/NexusHub"><img width="49%" src="assets/cards/NexusHub.svg?v=5" /></a> <a href="https://github.com/UnsoberDriver/Home-Kitchen-Club"><img width="49%" src="assets/cards/Home-Kitchen-Club.svg?v=5" /></a>
+<kbd><a href="https://github.com/UnsoberDriver/NexusHub"><img width="49%" src="assets/cards/NexusHub.svg?v=6" /></a></kbd> <kbd><a href="https://github.com/UnsoberDriver/Home-Kitchen-Club"><img width="49%" src="assets/cards/Home-Kitchen-Club.svg?v=6" /></a></kbd>
 
-<a href="https://github.com/UnsoberDriver/NoteKeep"><img width="49%" src="assets/cards/NoteKeep.svg?v=5" /></a> <a href="https://github.com/UnsoberDriver/DropZone"><img width="49%" src="assets/cards/DropZone.svg?v=5" /></a>
+<kbd><a href="https://github.com/UnsoberDriver/NoteKeep"><img width="49%" src="assets/cards/NoteKeep.svg?v=6" /></a></kbd> <kbd><a href="https://github.com/UnsoberDriver/DropZone"><img width="49%" src="assets/cards/DropZone.svg?v=6" /></a></kbd>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5a0663&height=2" width="100%" />
 
