@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regenerate the profile pin cards as local SVGs with a 1px white border."""
+"""Regenerate the profile pin cards as local SVGs with a 1.5px white border."""
 
 from __future__ import annotations
 
@@ -32,8 +32,8 @@ def thicken_border(svg: str) -> str:
     pattern = r'(<rect\s+data-testid="card-bg"\s+)[^>]*?(/?>)'
     replacement = (
         r"\1"
-        f'x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="10"'
-        ' stroke-width="1" stroke="#ffffff" stroke-opacity="0.75"'
+        f'x="0.75" y="0.75" width="{width - 1.5}" height="{height - 1.5}" rx="10"'
+        ' stroke-width="1.5" stroke="#ffffff" stroke-opacity="0.75"'
         ' vector-effect="non-scaling-stroke" shape-rendering="crispEdges"'
         r"\2"
     )
